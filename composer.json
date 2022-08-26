@@ -1,0 +1,19 @@
+{
+  "name": "jessicaks/post-type-switcher",
+  "description": "It’s about time for a live page builder.",
+  "keywords": [
+    "wordpress",
+    "plugin"
+  ],
+  "homepage": "https://github.com/jessicaKs/post-type-switcher",
+  "authors": [
+    {
+      "name": "Post type switcher",
+      "homepage": "https://es.wordpress.org/plugins/post-type-switcher/"
+    }
+  ],
+  "type": "wordpress-plugin",
+  "require": {
+    "php": ">=7.3"
+  }
+}
